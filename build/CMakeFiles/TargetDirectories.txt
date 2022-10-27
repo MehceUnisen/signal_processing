@@ -1,0 +1,3 @@
+/home/mehce/hobby/dct/build/CMakeFiles/rebuild_cache.dir
+/home/mehce/hobby/dct/build/CMakeFiles/edit_cache.dir
+/home/mehce/hobby/dct/build/CMakeFiles/dct.dir

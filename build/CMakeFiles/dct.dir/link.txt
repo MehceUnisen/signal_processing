@@ -1,0 +1,1 @@
+/usr/lib/ccache/g++     CMakeFiles/dct.dir/dct.cpp.o CMakeFiles/dct.dir/main.cpp.o  -o dct  -lpthread 
